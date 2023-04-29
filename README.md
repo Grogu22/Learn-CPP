@@ -1,2 +1,2 @@
-# Learn-CPP
-C++ for beginners
+# Learn-CPP  
+C++ for noobs 🌝
