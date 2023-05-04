@@ -8,3 +8,7 @@
     * [Based on this implementation](https://www.youtube.com/watch?v=eQCS_v3bw0Q&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=7)
     * **Time complexity** : $O(2^n)$
     * **Space Complexity** : $O(n)$ 
+* Finding [count of all subsequences in array having sum k](subsequence_rec_sum_k_count.cpp) using recursion
+    * [Based on this implementation](https://www.youtube.com/watch?v=eQCS_v3bw0Q&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=7)
+    * **Time complexity** : $O(2^n)$
+    * **Space Complexity** : $O(1)$
