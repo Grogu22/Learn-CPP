@@ -8,6 +8,6 @@
 * Implementing [frog jump using recursion](frog_jump_rec.cpp):
     * **Time Complexity** : $O(2^n)$
     * **Space Complexity** : $O(1)$
-* Implementing [frog jump using memoization](fibo_tabu_1.exe):
+* Implementing [frog jump using memoization](frog_jump_memo.cpp):
     * **Time Complexity** : $O(n)$
     * **Space Complexity** : $O(n)$
